@@ -10,6 +10,9 @@
 </div>
 
 
+![Codewars](https://github.r2v.ch/codewars?user=qwavy&stroke=%23BB432C)
+
+
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=qwavy)](https://git.io/streak-stats)
 
