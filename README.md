@@ -9,7 +9,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
 <h2>Legendary</h1>
-<img src="https://imgur.com/a/brLKHW6" alt="legendary leetcode"/>
+<img src="https://github.com/qwavy/profile_images/blob/main/image.png" alt="legendary leetcode"/>
 
 
 ### My codewars Stats : 
