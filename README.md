@@ -8,6 +8,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
+<h2>Legendary</h1>
+<img src="https://imgur.com/a/brLKHW6" alt="legendary leetcode"/>
+
 
 ### My codewars Stats : 
 ![Codewars](https://github.r2v.ch/codewars?user=qwavy&stroke=%23BB432C)
