@@ -8,8 +8,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
-<h2>Legendary</h1>
-<img src="https://github.com/qwavy/profile_images/blob/main/image.png" alt="legendary leetcode"/>
+### My Leetcode Stats : 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/qwavy)](https://leetcode.com/qwavy)
 
 
 ### My codewars Stats : 
