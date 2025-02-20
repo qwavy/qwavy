@@ -1,5 +1,5 @@
 # Nursultan 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=qwavy&color=brightgreen)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
