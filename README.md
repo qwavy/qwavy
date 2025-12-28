@@ -1,13 +1,4 @@
 # Nursultan 
 ![](https://komarev.com/ghpvc/?username=qwavy&color=brightgreen)
 
-### My Leetcode Stats : 
-![LeetCode Stats](https://leetcard.jacoblin.cool/qwavy?theme=dark&font=Roboto&ext=heatmap)
-
-
-### My codewars Stats : 
-![Codewars](https://github.r2v.ch/codewars?user=qwavy&stroke=%23BB432C)
-
-
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=qwavy)](https://git.io/streak-stats)
+![Metrics](https://metrics.lecoq.io/qwavy?template=classic&languages=1&achievements=1¬able=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0¬able.from=organization¬able.repositories=false¬able.indepth=false¬able.types=commit&config.timezone=America%2FNew%20York)
